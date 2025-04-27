@@ -4,7 +4,8 @@ Este proyecto consistió en el análisis del rendimiento de cuatro tiendas onlin
 
 ## Contenido del Repositorio
 
-* `AluraStoreLatam.ipynb`: Jupyter Notebook que contiene el código Python utilizado para el análisis de datos, la generación de visualizaciones y la elaboración del informe final.
+* `AluraStoreLatam.ipynb`: Jupyter Notebook que contiene el código Python original.
+* `2AluraStoreLatam.ipynb`: Jupyter Notebook que fue utilizado para el desarrollo del caso; análisis de datos, la generación de visualizaciones y la elaboración del informe final.
 * `base-de-datos-challenge1-latam/`: Carpeta que contiene los archivos CSV con los datos de cada una de las cuatro tiendas analizadas.
     * `tienda_1 .csv`: Datos de la Tienda 1.
     * `tienda_2.csv`: Datos de la Tienda 2.
