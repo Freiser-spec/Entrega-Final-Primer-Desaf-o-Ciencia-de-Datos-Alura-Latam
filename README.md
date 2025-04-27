@@ -43,7 +43,11 @@ El análisis incluyó los siguientes pasos:
 
 ## Hallazgos Clave y Recomendación
 
-[**Nota:** Esta sección debe resumir brevemente los principales hallazgos del análisis (por ejemplo, qué tienda tuvo mayores ingresos, cuáles fueron las categorías más populares, etc.) y la recomendación final dada en el informe (por ejemplo, se recomendó la Tienda 1 debido a su mayor potencial de ingresos).]
+## Hallazgos Clave y Recomendación
+
+El análisis del rendimiento de las cuatro tiendas reveló que **Tienda 1** generó los mayores ingresos totales ($1.15B), superando a las demás tiendas. Las categorías de productos más vendidas consistentemente fueron **Muebles** y **Electrónicos** en todas las ubicaciones. La **satisfacción del cliente**, medida por la calificación promedio, fue similar en todas las tiendas, con una ligera ventaja para Tienda 3 (4.05). Los productos más y menos vendidos variaron significativamente entre las tiendas, sin patrones claros a nivel general. En cuanto a los **costos de envío promedio**, Tienda 4 presentó el costo más bajo ($23.46K), mientras que Tienda 1 tuvo el más alto ($26.02K).
+
+Basándonos en estos hallazgos, la **recomendación final** para el Sr. Juan es considerar principalmente la **Tienda 1** para vender sus productos. A pesar de tener un costo de envío promedio ligeramente superior y una calificación promedio marginalmente inferior a otras tiendas, su **liderazgo en ingresos** sugiere el mayor potencial de ventas y una base de clientes más amplia. La fuerte demanda en categorías clave como Muebles y Electrónicos en Tienda 1 también representa una oportunidad significativa. Se recomienda al Sr. Juan investigar la alineación de sus productos con estas tendencias de venta en Tienda 1 para maximizar su éxito.
 
 Basado en el análisis exhaustivo de los datos, se recomendó al Sr. Juan considerar principalmente la **Tienda 1** para vender sus productos debido a su mayor potencial de ingresos y la fuerte demanda en categorías de productos relevantes.
 
@@ -51,7 +55,7 @@ Basado en el análisis exhaustivo de los datos, se recomendó al Sr. Juan consid
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/sindresorhus/del](https://github.com/sindresorhus/del)
+    https://github.com/Freiser-spec/Entrega-Final-Primer-Desaf-o-Ciencia-de-Datos-Alura-Latam/tree/main
     ```
 2.  **Abrir el Jupyter Notebook:** Ejecuta el archivo `AluraStoreLatam.ipynb` en Jupyter Notebook o Google Colab para revisar el código del análisis y las visualizaciones generadas.
 3.  **Explorar los mapas interactivos:** Abre los archivos `mapa_ventas_Tienda_X.html` en tu navegador web para visualizar la distribución geográfica de las ventas de cada tienda.
